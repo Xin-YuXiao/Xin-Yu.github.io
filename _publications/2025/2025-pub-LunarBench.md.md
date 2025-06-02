@@ -16,7 +16,7 @@ authors:
   - Xiangyu Liu
   - Tianyang Lu
   - Erwei Yin
-  - Qianchen Xia ✉
+  - Qianchen Xia
   - Shanguang Chen 
 links:
   Paper: /assets/files/Lunar_Bench.pdf
