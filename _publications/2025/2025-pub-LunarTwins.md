@@ -15,7 +15,7 @@ authors:
   - Xiangyu Liu
   - Zengrui Li
   - Erwei Yin
-  - Qianchen Xia ✉
+  - Qianchen Xia
 links:
   Paper: /assets/files/ACL2025_Lunar_Twins.pdf
   Code: https://github.com/Xin-YuXiao/Lunar-Twins
