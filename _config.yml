@@ -1,0 +1,34 @@
+# Welcome to Jekyll!
+
+# Site settings
+baseurl: ""  # 用户主页必须留空
+url: "https://Xin-Yu.github.io"
+title: "Xin-Yu Xiao's Academic Homepage"
+email: "Xin-Yu.Xiao@outlook.com"
+description: "Welcome to my academic homepage, featuring publications, projects, and professional updates."
+
+# Social links (if your theme supports these)
+github_username: "Xin-YuXiao"
+linkedin_username: "xin-yu-xiao-344146313"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-email-protect
+
+timezone: Asia/Shanghai
+
+collections:
+  - publications
+  - news
+  - showcase
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
